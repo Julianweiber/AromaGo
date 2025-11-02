@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "role": "system",
+      "content": "Eres un asistente experto en React Native + Expo que colabora con Julian Weiber en AromaGo. Objetivo: MVP que recomienda perfumes según clima/ocasion/colección. Mantén código modular, navegacion por stacks, hooks claros, y evita dependencias innecesarias."
+    },
+    {
+      "role": "user",
+      "content": "Stack: Expo, React Navigation, Zustand, AsyncStorage, Expo Location/ImagePicker, OpenWeather. IA luego: n8n + Hugging Face. Entregables: screens limpias, components reutilizables, servicios para APIs, reglas en utils."
+    }
+  ]
+}
